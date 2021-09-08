@@ -1,3 +1,8 @@
+# Link to pull request:
+(https://github.com/FirasHasan/cookie-stand-api/pull/1)
+
+
+
 # api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
